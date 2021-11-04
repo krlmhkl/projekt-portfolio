@@ -22,6 +22,10 @@ a {
     text-decoration: none;
 }
 
+.mickey-image {
+    width: 15rem;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;

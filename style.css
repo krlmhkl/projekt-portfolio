@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Montez', cursive;
 }
 
 html {
@@ -17,6 +18,10 @@ li {
 
 a {
     text-decoration: none;
+}
+
+.mickey-image {
+    width: 15rem;
 }
 
 .navbar {
@@ -96,16 +101,16 @@ a {
 }
 .history{
     display: flex;
+    flex-direction: column;
 }
 .history-text{
     background-color: #482ff7;
     align-self: center;
-}
-.history-text h1{
     text-align: center;
-    
 }
-
+.history-text a{
+    font-family: 'Montaga', serif;
+}
 
 .honors {
     display: flex;

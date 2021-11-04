@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montez&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montaga&display=swap');
 
 * {
     margin: 0;
@@ -98,16 +99,16 @@ a {
 }
 .history{
     display: flex;
+    flex-direction: column;
 }
 .history-text{
     background-color: #482ff7;
     align-self: center;
-}
-.history-text h1{
     text-align: center;
-    
 }
-
+.history-text a{
+    font-family: 'Montaga', serif;
+}
 
 .honors {
     display: flex;

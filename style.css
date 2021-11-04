@@ -74,3 +74,20 @@
     }
 
 }
+
+
+.honors {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+}
+
+.honors-title{
+    background-color: green;
+}
+
+.honors-cards{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+}

@@ -118,6 +118,13 @@ a {
 
 }
 
+.honors-card2{
+    background-color: darkblue;
+    width: 20rem;
+    height: 10rem;
+
+}
+
 
 .hamburger.active .bar:nth-child(2) {
     opacity: 0;
@@ -134,11 +141,4 @@ a {
 }
 
 
-
-.honors-card2{
-    background-color: darkblue;
-    width: 20rem;
-    height: 10rem;
-
-}
 

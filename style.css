@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,400&display=swap');
+body{
+    background-color: #161540;
 
+}
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+}
 * {
     margin: 0;
     padding: 0;
@@ -53,16 +60,17 @@ a {
 .nav-link{
     font-size: 1.6rem;
     font-weight: 400;
-    color: #475569;
+    color: #FFFFFF;
 }
 
 .nav-link:hover{
-    color: #482ff7;
+    color: blue;
 }
 
 .nav-logo {
     font-size: 2.1rem;
     font-weight: 500;
+    color: #FFF6FA;
 }
 img {
     max-width: 100%;
@@ -78,6 +86,7 @@ img {
  .miki-text{
     text-align: justify;
     font-size: 15px;
+    color: #FFF6FA;
  }
  .intro-text{
      margin: 50px;
@@ -89,6 +98,7 @@ img {
  }
 .honors-title h1{
     font-size: 60px;
+    color: #FFF6FA;
 }
  .honors{
      display: flex;
@@ -96,6 +106,7 @@ img {
      align-items: center;
      border-bottom: black;
      border-bottom-style: solid;
+     padding-bottom: 5rem;
  }
  .honors-cards{
      display: flex;
@@ -126,6 +137,7 @@ img {
     align-items: center;
     display: flex;
     margin-left: 50px;
+    font-size: 16px;
 }
 .honors-card2{
     display: flex;
@@ -141,6 +153,7 @@ img {
     align-items: center;
     display: flex;
     margin-left: 50px;
+    font-size: 16px;
 }
 .honors-card3{
     display: flex;
@@ -156,6 +169,7 @@ img {
     align-items: center;
     display: flex;
     margin-left: 50px;
+    font-size: 16px;
 }
 .honors-card4{
     display: flex;
@@ -171,6 +185,7 @@ img {
     align-items: center;
     display: flex;
     margin-left: 50px;
+    font-size: 16px;
 }
 .honors-card5{
     display: flex;
@@ -186,7 +201,81 @@ img {
     align-items: center;
     display: flex;
     margin-left: 50px;
+    font-size: 16px;
 }
+.history-text p{
+    padding: 3rem;
+    text-align: center;
+    font-size: 16px;
+    color: #FFF6FA;
+}
+.history-film{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 30rem;
+}
+.filmography{
+    padding-right: 1rem;
+}
+.history-title{
+    display: flex;
+    justify-content: center;
+}
+.history{
+    border-bottom: black;
+    border-bottom-style: solid;
+    padding-bottom: 5rem;
+}
+.contact-title{
+    display: flex;
+    justify-content: center;
+    color: #FFF6FA;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.filmography-text1{
+    padding:10px;
+}
+.filmography-text1 p{
+    font-size: 16px;
+    color: #FFF6FA;
+}
+.filmography-text2{
+    padding:10px;
+}
+.filmography-text2 p{
+    font-size: 16px;
+    color: #FFF6FA;
+}
+.filmography-text3{
+    padding:10px;
+}
+.filmography-text3 p{
+    font-size: 16px;
+    color: #FFF6FA;
+}
+.history-title h1{
+    font-size: 60px;
+    color: #FFF6FA;
+ }
+ .contact-title h1{
+     font-size: 60px;
+ }
+ .company{
+     font-size: 16px;
+     color: #FFF6FA;
+ }
+ .twitter{
+     font-size: 16px;
+     color: #FFF6FA;
+ }
+ .disney{
+     font-size: 16px;
+     color: #FFF6FA;
+ }
 @media only screen and (max-width: 768px) {
     .nav-menu {
         position: fixed;
@@ -200,6 +289,89 @@ img {
         transition: 0.3s;
         box-shadow:
             0 10px 27px rgba(0, 0, 0, 0.05);
+    }
+    .info{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .contact-title{
+        display: flex;
+        justify-content: center;
+    }
+    .history-film{
+        padding-right: 0rem;
+        display: flex;
+        flex-direction: column;
+
+    }
+    .history{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+
+    }
+    .history-title{
+        display: flex;
+        justify-content: center;
+    }
+    .history-title h1{
+       font-size: 60px;
+    }
+    .history-text p{
+        display: flex;
+        padding: 2rem;
+        font-size: 13px;
+    }
+    .history-img{
+        display: flex;
+        justify-content: center;
+    }
+    .filmography{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin: 10px;
+    }
+    .filmography-text1{
+        display: flex;
+    }
+    .filmography-text1 p{
+        display: flex;
+        font-size: 14px;
+        color: #FFF6FA;
+    }
+    .filmography-text2{
+        display: flex;
+    }
+    .filmography-text2 p{
+        display: flex;
+        font-size: 14px;
+        color: #FFF6FA;
+    }
+    .filmography-text3{
+        display: flex;
+    }
+    .filmography-text3 p{
+        display: flex;
+        font-size: 14px;
+        color: #FFF6FA;
+    }
+
+
+    .honor-row1{
+        gap: 10px;
+        display:flex;
+        flex-direction: column;
+        justify-items: center;
+    }
+    .honor-row2{
+        display:flex;
+        flex-direction: column;
+    }
+    .honors-card1{
+        display: flex;
+        align-items: center;
     }
     .intro-text{
         margin: 0px;
@@ -227,6 +399,7 @@ img {
     .hamburger {
         display: block;
         cursor: pointer;
+        background: #FFF6FA;
     }
 
     .hamburger.active .bar:nth-child(2) {

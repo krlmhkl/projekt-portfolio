@@ -2,9 +2,9 @@
 
 .navbar {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
-    padding: 1rem 1.5rem;
+    padding: 1rem 3rem 1rem 1rem;
 }
 .hamburger {
     display: none;
@@ -61,10 +61,11 @@
 
     .nav-menu.active {
         left: 0;
+        padding: 0px;
     }
 
     .nav-item {
-        margin: 2.5rem 0;
+        margin: 1rem 0;
         padding: 0px;
     }
 

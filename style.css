@@ -75,3 +75,14 @@
     }
 
 }
+.history{
+    display: flex;
+}
+.history-text{
+    background-color: #482ff7;
+    align-self: center;
+}
+.history-text h1{
+    text-align: center;
+    
+}

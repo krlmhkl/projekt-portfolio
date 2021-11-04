@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,400&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Montaga&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -119,7 +119,7 @@ a {
     background-color: green;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    
+
 }
 
 .honors-cards{
@@ -131,9 +131,92 @@ a {
 }
 
 .honors-card2{
-    background-color: darkblue;
+    border-radius: 5px;
+    margin-bottom: 20px;
     width: 20rem;
     height: 10rem;
+    background-image: url(Icons/honors\ pilt\ 1.jpg);
+    color: white;
+    padding: 15px;
+
+}
+
+.honors-card1{
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 20rem;
+    height: 10rem;
+    background-image: url(Icons/honors\ pilt\ 1.jpg);
+    color: white;
+    padding: 15px;
+    
+
+}
+
+.honors-card3{
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 20rem;
+    height: 10rem;
+    background-image: url(Icons/honors\ pilt\ 1.jpg);
+    color: white;
+    padding: 15px;
+
+}
+
+.honors-card4{
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 20rem;
+    height: 10rem;
+    background-image: url(Icons/honors\ pilt\ 1.jpg);
+    color: white;
+    padding: 15px;
+
+}
+.honors-card5{
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 20rem;
+    height: 10rem;
+    background-image: url(Icons/honors\ pilt\ 1.jpg);
+    color: white;
+    padding: 15px;
+
+}
+.pilt1{
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+}
+
+.pilt2{
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+}
+
+.pilt3{
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+}
+
+.pilt4{
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+}
+
+.pilt5{
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+}
+.p{
+    text-align: center;
+    width: 20px;
+    height: 30px;
 
 }
 
@@ -151,6 +234,7 @@ a {
     -webkit-transform: translateY(-8px) rotate(-45deg);
     transform: translateY(-8px) rotate(-45deg);
 }
+
 
 
 

@@ -20,7 +20,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 
 * Karl Mihkel Truu:
 * Joonas Püüding:
-* Joonas Hendrik Peet:
+* Joonas Hendrik Peet: Lihtne ja tiimi-nõudev, kõik mis oli vaja teha oli mõnus teha
 * Markus Timofejev:
 * Markus Ait:
 * Ketrin Vanatoa:
@@ -29,7 +29,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 ### Kas te õppisite midagi uut projekti tegemas?
 * Karl Mihkel Truu:
 * Joonas Püüding:
-* Joonas Hendrik Peet:
+* Joonas Hendrik Peet: Eriti midagi, kõik oli varem kasutatud
 * Markus Timofejev:
 * Markus Ait:
 * Ketrin Vanatoa:
@@ -44,7 +44,10 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 * Ketrin Vanatoa:
 * Angelika Usin:
 
-[Figma](https://www.figma.com/files/team/1037688853642240855/MikiHiirePort?fuid=771654016519768350)
+### Lingid
+* [teine github](https://github.com/maq30/Portfolio)
+* [Figma](https://www.figma.com/files/team/1037688853642240855/MikiHiirePort?fuid=771654016519768350)
+* [LIVE](https://tak19pyyding.itmajakas.ee/port/)
  
  ### Mida me kasutasime
  Github, Figma, Slack, VScode, Ubuntu

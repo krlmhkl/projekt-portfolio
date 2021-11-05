@@ -27,7 +27,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 - Joonas Hendrik Peet: Lihtne ja tiimi-nõudev, kõik mis oli vaja teha oli mõnus teha
 - Markus Timofejev:
 - Markus Ait: Projekt vajas koostööd, ning igaüks sai mingitpidi kaasa aidata. Mõnus projekt ning meie tiimis kõik läks sujuvalt.
-- Ketrin Vanatoa:
+- Ketrin Vanatoa:Projekt oli hea ja arusaadav ning mitte liiga keeruline.
 - Angelika Usin:
 
 ### Kas te õppisite midagi uut projekti tegemas?

@@ -26,7 +26,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 - Joonas Püüding:
 - Joonas Hendrik Peet: Lihtne ja tiimi-nõudev, kõik mis oli vaja teha oli mõnus teha
 - Markus Timofejev:
-- Markus Ait: Projekt vajas koostööd, ning igaüks sai mingitpidi kaasa aidata. Mõnus projekt ning meie tiimis kõik sujus sujuvalt.
+- Markus Ait: Projekt vajas koostööd, ning igaüks sai mingitpidi kaasa aidata. Mõnus projekt ning meie tiimis kõik läks sujuvalt.
 - Ketrin Vanatoa:
 - Angelika Usin:
 

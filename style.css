@@ -135,6 +135,7 @@ img {
     width: 300px;
     height: 150px;
     justify-content: center;
+    font-family: "montaga",serif;
 }
 .honors-card1 p{
     color: white;
@@ -142,6 +143,7 @@ img {
     display: flex;
     margin-left: 50px;
     font-size: 16px;
+    font-family: "montaga",serif;
 }
 .honors-card2{
     display: flex;
@@ -151,6 +153,7 @@ img {
     width: 300px;
     height: 150px;
     justify-content: center;
+    font-family: "montaga",serif;
 }
 .honors-card2 p{
     color: white;
@@ -158,6 +161,7 @@ img {
     display: flex;
     margin-left: 50px;
     font-size: 16px;
+    font-family: "montaga",serif;
 }
 .honors-card3{
     display: flex;
@@ -167,6 +171,7 @@ img {
     width: 300px;
     height: 150px;
     justify-content: center;
+    font-family: "montaga",serif;
 }
 .honors-card3 p{
     color: white;
@@ -174,6 +179,7 @@ img {
     display: flex;
     margin-left: 50px;
     font-size: 16px;
+    font-family: "montaga",serif;
 }
 .honors-card4{
     display: flex;
@@ -183,6 +189,7 @@ img {
     width: 300px;
     height: 150px;
     justify-content: center;
+    font-family: "montaga",serif;
 }
 .honors-card4 p{
     color: white;
@@ -190,6 +197,7 @@ img {
     display: flex;
     margin-left: 50px;
     font-size: 16px;
+    font-family: "montaga",serif;
 }
 .honors-card5{
     display: flex;
@@ -199,6 +207,7 @@ img {
     width: 300px;
     height: 150px;
     justify-content: center;
+    font-family: "montaga",serif;
 }
 .honors-card5 p{
     color: white;
@@ -206,6 +215,7 @@ img {
     display: flex;
     margin-left: 50px;
     font-size: 16px;
+    font-family: "montaga",serif;
 }
 .history-text p{
     padding: 3rem;
@@ -217,7 +227,7 @@ img {
 .history-film{
     display: flex;
     flex-direction: row-reverse;
-    padding:0rem 10rem 0 4rem;
+    margin:0 30rem 0 30rem;
 
 }
 .filmography{
@@ -246,6 +256,7 @@ img {
 }
 .filmography-text1{
     padding:10px;
+    font-family: "montaga",serif;
 }
 .filmography-text1 p{
     font-size: 16px;
@@ -254,6 +265,7 @@ img {
 }
 .filmography-text2{
     padding:10px;
+    font-family: "montaga",serif;
 }
 .filmography-text2 p{
     font-size: 16px;
@@ -262,6 +274,8 @@ img {
 }
 .filmography-text3{
     padding:10px;
+    font-family: "montaga",serif;
+
 }
 .filmography-text3 p{
     font-size: 16px;
@@ -271,6 +285,7 @@ img {
 .history-title h1{
     font-size: 60px;
     color: #FFF6FA;
+
  }
  .contact-title h1{
      font-size: 60px;
@@ -279,14 +294,17 @@ img {
  .company{
      font-size: 16px;
      color: #FFF6FA;
+     font-family: "montaga",serif;
  }
  .twitter{
      font-size: 16px;
      color: #FFF6FA;
+     font-family: "montaga",serif;
  }
  .disney{
      font-size: 16px;
      color: #FFF6FA;
+     font-family: "montaga",serif;
  }
 @media only screen and (max-width: 768px) {
     .nav-menu {
@@ -312,9 +330,9 @@ img {
         justify-content: center;
     }
     .history-film{
-        padding-right: 0rem;
         display: flex;
         flex-direction: column;
+        margin: 0;
 
     }
     .history{

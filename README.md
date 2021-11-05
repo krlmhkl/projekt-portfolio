@@ -37,7 +37,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 - Joonas Hendrik Peet: Eriti midagi, kõik oli varem kasutatud
 - Markus Timofejev:
 - Markus Ait: Esimese projektina õppisin arendusprotsessist tiimiga limiitilise ajaga, õppisin Figmat paremini ning praktilisemalt kasutama. Hea ettevalmistus järgmise projekti jaoks.
-- Ketrin Vanatoa:Figmat ja VS Code paremini kasutama
+- Ketrin Vanatoa:Figmat ja VS Code paremini kasutama ning sain paremini aru kuidas tiimis projekti tegemine võiks välja näha.
 - Angelika Usin:
 
 ### Kas tahaksite samas tiimis uuesti osaleda?

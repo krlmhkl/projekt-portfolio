@@ -50,6 +50,34 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 - Ketrin Vanatoa:
 - Angelika Usin:
 
+* Karl Mihkel Truu:
+* Joonas Püüding:
+* Joonas Hendrik Peet: Lihtne ja tiimi-nõudev, kõik mis oli vaja teha oli mõnus teha
+* Markus Timofejev:
+* Markus Ait: Projekt vajas koostööd, ning igaüks sai mingitpidi kaasa aidata. Mõnus projekt ning meie tiimis kõik sujus sulavalt.
+* Ketrin Vanatoa:
+* Angelika Usin:
+
+### Kas te õppisite midagi uut projekti tegemas?
+
+- Karl Mihkel Truu:
+- Joonas Püüding:
+- Joonas Hendrik Peet: Eriti midagi, kõik oli varem kasutatud
+- Markus Timofejev:
+- Markus Ait: Esimese projektina õppisin arendusprotsessist tiimiga limiitilise ajaga, õppisin Figmat paremini ning praktilisemalt kasutama. Hea ettevalmistus järgmise projekti jaoks.
+- Ketrin Vanatoa:
+- Angelika Usin:
+
+### Kas tahaksite samas tiimis uuesti osaleda?
+
+- Karl Mihkel Truu:
+- Joonas Püüding:
+- Joonas Hendrik Peet: Jah
+- Markus Timofejev:
+- Markus Ait: Jah :)
+- Ketrin Vanatoa:
+- Angelika Usin:
+
 ### Lingid
 
 - [teine github](https://github.com/maq30/Portfolio)

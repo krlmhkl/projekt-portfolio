@@ -43,6 +43,8 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 * Markus Ait:
 * Ketrin Vanatoa:
 * Angelika Usin:
+
+###Lingid
 [teine github](https://github.com/maq30/Portfolio)
 [Figma](https://www.figma.com/files/team/1037688853642240855/MikiHiirePort?fuid=771654016519768350)
 [LIVE](https://tak19pyyding.itmajakas.ee/port/)

@@ -26,7 +26,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 - Joonas Püüding:
 - Joonas Hendrik Peet: Lihtne ja tiimi-nõudev, kõik mis oli vaja teha oli mõnus teha
 - Markus Timofejev:
-- Markus Ait:
+- Markus Ait: Projekt vajas koostööd, ning igaüks sai mingitpidi kaasa aidata. Mõnus projekt ning meie tiimis kõik sujus sujuvalt.
 - Ketrin Vanatoa:
 - Angelika Usin:
 
@@ -36,7 +36,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 - Joonas Püüding:
 - Joonas Hendrik Peet: Eriti midagi, kõik oli varem kasutatud
 - Markus Timofejev:
-- Markus Ait:
+- Markus Ait: Esimese projektina õppisin arendusprotsessist tiimiga limiitilise ajaga, õppisin Figmat paremini ning praktilisemalt kasutama. Hea ettevalmistus järgmise projekti jaoks.
 - Ketrin Vanatoa:
 - Angelika Usin:
 
@@ -46,7 +46,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 - Joonas Püüding:
 - Joonas Hendrik Peet: Jah
 - Markus Timofejev:
-- Markus Ait:
+- Markus Ait: Jah :)
 - Ketrin Vanatoa:
 - Angelika Usin:
 
@@ -54,7 +54,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 * Joonas Püüding:
 * Joonas Hendrik Peet: Lihtne ja tiimi-nõudev, kõik mis oli vaja teha oli mõnus teha
 * Markus Timofejev:
-* Markus Ait: Projekt vajas koostööd, ning igaüks sai mingitpidi kaasa aidata. Mõnus projekt ning meie tiimis kõik sujus sulavalt.
+* Markus Ait: 
 * Ketrin Vanatoa:
 * Angelika Usin:
 
@@ -64,7 +64,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 - Joonas Püüding:
 - Joonas Hendrik Peet: Eriti midagi, kõik oli varem kasutatud
 - Markus Timofejev:
-- Markus Ait: Esimese projektina õppisin arendusprotsessist tiimiga limiitilise ajaga, õppisin Figmat paremini ning praktilisemalt kasutama. Hea ettevalmistus järgmise projekti jaoks.
+- Markus Ait: 
 - Ketrin Vanatoa:
 - Angelika Usin:
 
@@ -74,7 +74,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 - Joonas Püüding:
 - Joonas Hendrik Peet: Jah
 - Markus Timofejev:
-- Markus Ait: Jah :)
+- Markus Ait: Jah
 - Ketrin Vanatoa:
 - Angelika Usin:
 

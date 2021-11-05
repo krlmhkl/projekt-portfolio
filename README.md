@@ -28,7 +28,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 - Markus Timofejev:
 - Markus Ait: Projekt vajas koostööd, ning igaüks sai mingitpidi kaasa aidata. Mõnus projekt ning meie tiimis kõik läks sujuvalt.
 - Ketrin Vanatoa:Projekt oli hea ja arusaadav ning mitte liiga keeruline.
-- Angelika Usin:
+- Angelika Usin: Hea praktika htmli ja cssi harjutamiseks
 
 ### Kas te õppisite midagi uut projekti tegemas?
 
@@ -38,7 +38,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 - Markus Timofejev:
 - Markus Ait: Esimese projektina õppisin arendusprotsessist tiimiga limiitilise ajaga, õppisin Figmat paremini ning praktilisemalt kasutama. Hea ettevalmistus järgmise projekti jaoks.
 - Ketrin Vanatoa:Figmat ja VS Code paremini kasutama ning sain paremini aru kuidas tiimis projekti tegemine võiks välja näha.
-- Angelika Usin:
+- Angelika Usin: Läbi projekti õppisin div-ide tegemist ja elementide kujunduse, kirjafondi ja kirjavärvi muutmist, ruumi lisamist ümber elemendi jne. Õppimisin pullima ja committima VS code-is.
 
 ### Kas tahaksite samas tiimis uuesti osaleda?
 
@@ -48,7 +48,7 @@ Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama ke
 - Markus Timofejev:
 - Markus Ait: Jah :)
 - Ketrin Vanatoa:Ikka
-- Angelika Usin:
+- Angelika Usin:jah
 
 ### Lingid
 

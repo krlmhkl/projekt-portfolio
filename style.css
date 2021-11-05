@@ -84,8 +84,6 @@ img {
      align-items: center;
      justify-content: center;
      flex-direction: row-reverse;
-     border-bottom: black;
-     border-bottom-style: solid;
  }
  .miki-text{
     text-align: justify;
@@ -97,7 +95,7 @@ img {
      margin: 50px;
      width: 200px;
  }
- honors-title{
+ .honors-title{
      display: flex;
      align-items: center;
  }
@@ -110,9 +108,9 @@ img {
      display: flex;
      flex-direction: column;
      align-items: center;
-     border-bottom: black;
-     border-bottom-style: solid;
      padding-bottom: 5rem;
+     padding-top: 5rem;
+     background-color: #21274a;
  }
  .honors-cards{
      display: flex;
@@ -219,12 +217,18 @@ img {
     font-size: 16px;
     font-family: "montaga",serif;
 }
-.history-text p{
+.history-text{
+    padding-bottom: 4rem;
+    display: flex;
+    justify-content: center;
+}
+.history-text p {
     padding: 3rem;
     text-align: center;
     font-size: 16px;
     color: #FFF6FA;
     font-family: "montaga",serif;
+    max-width: 75ch;
 }
 .history-film{
     display: flex;
@@ -242,19 +246,23 @@ img {
     font-family: "montez",serif;
 }
 .history{
-    border-bottom: black;
-    border-bottom-style: solid;
     padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+.history-text p {
+    padding: 2rem;
 }
 .contact-title{
     display: flex;
     justify-content: center;
     color: #FFF6FA;
+    padding: 4rem;
 }
 .info{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 4rem;
 }
 .filmography-text1{
     padding:10px;
@@ -289,6 +297,10 @@ img {
     color: #FFF6FA;
 
  }
+ .contact {
+    background-color: #21274a;
+ }
+
  .contact-title h1{
      font-size: 60px;
      font-family: "montez",serif;
@@ -312,7 +324,7 @@ img {
     .nav-menu {
         position: fixed;
         left: -100%;
-        top: 5rem;
+        top: 7rem;
         flex-direction: column;
         background-color: #21274a;
         width: 100%;
@@ -350,11 +362,13 @@ img {
     .history-title h1{
        font-size: 60px;
     }
+
     .history-text p{
         display: flex;
         padding: 2rem;
         font-size: 13px;
     }
+
     .history-img{
         display: flex;
         justify-content: center;

@@ -14,7 +14,7 @@ Meie eesmärgiks oli teha portfoolio Miki Hiirest
 ### Töö
 Alustasime nagu kõik tiimid, saime üksteist teada ja siis hakkasime arutama kellest me portfoolio teeme. Me panime meie pakkumised paberite peale ja loosisime. Siis alustasime figma prototüüpiga
 
-### Tiimi heaolu
+# Tiimi heaolu:
 
 ### Mis te arvasite projektist?
 Karl Mihkel Truu

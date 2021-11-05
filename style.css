@@ -102,6 +102,7 @@ img {
 .honors-title h1{
     font-size: 60px;
     color: #FFF6FA;
+    font-family: "montez",serif;
 }
  .honors{
      display: flex;
@@ -211,18 +212,22 @@ img {
     text-align: center;
     font-size: 16px;
     color: #FFF6FA;
+    font-family: "montaga",serif;
 }
 .history-film{
     display: flex;
     flex-direction: row-reverse;
-    padding-right: 30rem;
+    padding:0rem 10rem 0 4rem;
+
 }
 .filmography{
     padding-right: 1rem;
+    
 }
 .history-title{
     display: flex;
     justify-content: center;
+    font-family: "montez",serif;
 }
 .history{
     border-bottom: black;
@@ -245,6 +250,7 @@ img {
 .filmography-text1 p{
     font-size: 16px;
     color: #FFF6FA;
+    font-family: "montaga",serif;
 }
 .filmography-text2{
     padding:10px;
@@ -252,6 +258,7 @@ img {
 .filmography-text2 p{
     font-size: 16px;
     color: #FFF6FA;
+    font-family: "montaga",serif;
 }
 .filmography-text3{
     padding:10px;
@@ -259,6 +266,7 @@ img {
 .filmography-text3 p{
     font-size: 16px;
     color: #FFF6FA;
+    font-family: "montaga",serif;
 }
 .history-title h1{
     font-size: 60px;
@@ -266,6 +274,7 @@ img {
  }
  .contact-title h1{
      font-size: 60px;
+     font-family: "montez",serif;
  }
  .company{
      font-size: 16px;
@@ -335,6 +344,7 @@ img {
         flex-direction: column;
         gap: 10px;
         margin: 10px;
+        margin-top: 3rem;
     }
     .filmography-text1{
         display: flex;
